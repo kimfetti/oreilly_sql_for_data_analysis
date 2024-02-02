@@ -4,6 +4,6 @@ Welcome to SQL for Data Analysis, an O'Reilly on-demand video course. This cours
 
 In this repository, you'll find:
 - The primary dataset for this course, university.db
-- A data diagram of university.db to visualize the table connections
+- A [data diagram of university.db](university_db_diagram.pdf) to visualize the table connections
 
 Thank you for joining me for this course, and I welcome your feedback. Wishing you all the best on your SQL journey!
